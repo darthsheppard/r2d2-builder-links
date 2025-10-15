@@ -1,0 +1,52 @@
+{
+  "results": [
+    {
+      "title": "Astromech.net Builders Club",
+      "url": "https://astromech.net/",
+      "tags": ["community", "reference", "blueprints"],
+      "description": "Official R2-D2 Builders Club forum with CAD files, dome dimensions, and electronics discussions."
+    },
+    {
+      "title": "Thingiverse – Full-Scale R2-D2 Dome (Baddeley Design)",
+      "url": "https://www.thingiverse.com/thing:202213",
+      "tags": ["stl", "dome", "3dprinting"],
+      "description": "Complete printable dome assembly with opening panels and mounting guides."
+    },
+    {
+      "title": "YouTube – 3D Printed R2-D2 Build Log (Part 1: Dome)",
+      "url": "https://www.youtube.com/watch?v=2EXqtiTr3r4",
+      "tags": ["video", "tutorial", "dome"],
+      "description": "Detailed step-by-step series covering the dome print, sanding, and panel fitting."
+    },
+    {
+      "title": "GitHub – R2-D2 Control App",
+      "url": "https://github.com/jakkra/R2D2Control",
+      "tags": ["android", "bluetooth", "code"],
+      "description": "Open-source Android Bluetooth control app for driving R2-D2 and managing sound/light modules."
+    },
+    {
+      "title": "Amazon AU – WS2812B LED Strips 5 V",
+      "url": "https://www.amazon.com.au/dp/B00ZHB9M6A/",
+      "tags": ["lighting", "hardware", "amazon-au"],
+      "description": "Individually addressable LED strips used for R2 logic displays and PSI lights."
+    },
+    {
+      "title": "Bunnings – Ryobi ONE+ 18 V Battery",
+      "url": "https://www.bunnings.com.au/ryobi-18v-one-4-0ah-lithium-battery_p6210598",
+      "tags": ["power", "battery", "australia"],
+      "description": "Compatible 18 V battery system for powering your R2 build."
+    },
+    {
+      "title": "YouTube – Dome Rotation & Slip Ring Wiring",
+      "url": "https://www.youtube.com/watch?v=VQspFL0Qemg",
+      "tags": ["electronics", "wiring", "slip-ring"],
+      "description": "Tutorial on using a 6-wire slip ring and motor to rotate the R2-D2 dome smoothly."
+    },
+    {
+      "title": "Thingiverse – R2-D2 Drive Base with Omniwheels",
+      "url": "https://www.thingiverse.com/thing:3710048",
+      "tags": ["drive", "chassis", "omniwheels"],
+      "description": "Printable drive base and wheel housing for a full-size R2-D2 build."
+    }
+  ]
+}
